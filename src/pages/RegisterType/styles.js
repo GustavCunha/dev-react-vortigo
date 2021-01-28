@@ -113,7 +113,7 @@ export const ItemImage = styled.Image`
     width: 50px;
     height: 50px;
     border-radius: 5px;
-    background-color: red;
+    /* background-color: red; */
     align-items: center;
     justify-content: center;
 `;
