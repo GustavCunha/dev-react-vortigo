@@ -39,4 +39,6 @@ $ expo start ou npm start
 - Desafio em React Native para vaga de Desenvolvedor React na Vortigo 
 - Se for me dada autorização, desejo implementar novas funcionalidades
 
-
+## :pushpin: Pendencies
+- [ ] Permitir ordenação por nome
+- [ ] Criar tela de detalhes (Se a última nota for aprovada)
