@@ -100,7 +100,7 @@ export default function Home({route}){
                 <ScrollTypes>
                     {types.map((item) => {
                         return(
-                            <TouchableOpacity key={item.name} onPress={()=>handleChangeType(item.name)} activeOpacity={0.6}>
+                            <TouchableOpacity key={item.name} onPress={async () => handleChangeType(item.name)} activeOpacity={0.6}>
                                 <TypeItem key={item.name} dados={item}/> 
                             </TouchableOpacity>
                         )
