@@ -38,6 +38,7 @@ $ expo start ou npm start
 - Foi utilizado o MockApi para a listagem dos pokémons devido ao tamanho do arquivo Json enviado ao desafio e por terem dados duplicados.
 - Desafio em React Native para vaga de Desenvolvedor React na Vortigo 
 - Se for me dada autorização, desejo implementar novas funcionalidades
+- Para alterar o tipo do pokemon, está sendo necessário clicar duas vezes no icone do Tipo, na tela de listagem.
 
 ## :pushpin: Pendencies
 - [ ] Permitir ordenação por nome
